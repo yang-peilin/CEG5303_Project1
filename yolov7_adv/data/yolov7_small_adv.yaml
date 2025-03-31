@@ -1,0 +1,12 @@
+#这个是用来做测试的 test里面包含了被攻击的图片
+train: /root/autodl-tmp/ypl/yolov7_adv/VOCdevkit/VOC2007_SMALL_ADV/train.txt
+val: /root/autodl-tmp/ypl/yolov7_adv/VOCdevkit/VOC2007_SMALL_ADV/val.txt
+test: /root/autodl-tmp/ypl/yolov7_adv/VOCdevkit/VOC2007_SMALL_ADV/test.txt
+
+# number of classes
+nc: 8
+
+# class names
+names: [
+         "bicycle", "bird", "bus", "car", "cat", "dog", "motorbike", "person"
+]

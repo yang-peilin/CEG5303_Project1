@@ -1,0 +1,12 @@
+
+train: /root/autodl-tmp/ypl/yolov7_adv/VOCdevkit/VOC2007_SMALL/train.txt
+val: /root/autodl-tmp/ypl/yolov7_adv/VOCdevkit/VOC2007_SMALL/val.txt
+test: /root/autodl-tmp/ypl/yolov7_adv/VOCdevkit/VOC2007_SMALL/test.txt
+
+# number of classes
+nc: 8
+
+# class names
+names: [
+         "bicycle", "bird", "bus", "car", "cat", "dog", "motorbike", "person"
+]

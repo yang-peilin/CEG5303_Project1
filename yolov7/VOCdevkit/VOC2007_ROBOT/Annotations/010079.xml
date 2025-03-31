@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>010079.jpg</filename>
+	<path>C:\Users\Aviuh\Desktop\Robot\JPEGImages\010079.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>675</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>34</ymin>
+			<xmax>662</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>
